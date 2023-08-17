@@ -1,0 +1,25 @@
+{
+  "name": "stackblitz-starters-u6suax",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@tailwindcss/typography": "^0.5.9",
+    "daisyui": "^3.5.1",
+    "file-saver": "^2.0.5",
+    "nanoid": "^4.0.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-top-loading-bar": "^2.3.1",
+    "tailwindcss": "^3.3.3",
+    "xlsx": "^0.18.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
